@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ML-specific
+data/
+datasets/
+*.pth
+*.pt
+runs/
+logs/
+wandb/
