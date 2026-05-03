@@ -23,7 +23,8 @@ Project Members: Ben Glass, Dani Schwartz, James Wareham.
 Project completed as part of course EC523 (Deep Learning) at Boston University (Spring 2026). 
 
 
-### References:
+### References
+#### (Formatting follows citation guidlines from the project report)
 J. Bobulski, M. Kubanek. Deep Learning for Plastic Waste Classification System. Applied Computational Intelligence and Soft Computing, 2021.
 
 J. Bobulski, J. Piatkowski. PET waste classification method and Plastic Waste DataBase WaDaBa, Advances in Intelligent Systems and Computing, 681: 57-64, 2018.
