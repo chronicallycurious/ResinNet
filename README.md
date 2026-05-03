@@ -25,5 +25,7 @@ Project completed as part of course EC523 (Deep Learning) at Boston University (
 
 ### References:
 J. Bobulski, M. Kubanek. Deep Learning for Plastic Waste Classification System. Applied Computational Intelligence and Soft Computing, 2021.
+
 J. Bobulski, J. Piatkowski. PET waste classification method and Plastic Waste DataBase WaDaBa, Advances in Intelligent Systems and Computing, 681: 57-64, 2018.
+
 A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai, T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly, J. Uszkoreit, N. Houlsby. An Image is Worth 16x16 Words: Transformers For Image Recognition At Scale, arxiv.org, 2020. 
