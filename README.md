@@ -17,6 +17,9 @@ Deep learning for plastic resin identification using CNNs and Vision Transformer
 -  **ProjectVisionTransformerAlteredData.ipynb** - training "vit_b_16" model on original and masked WaDaBa imagery. Testing on both original WaDaBa imagery and our own collected images.
 -  **Swin_SupCon.ipynb** - training, validation, and testing of SwinB architechture with SupCon Loss
 -  **Swin_SupCon-wildtrain.ipynb** - training, validation, and testing of SwinB architechture with SupCon Loss using synthetic "wild" images created using masks and superimposing on DTD background
+-  **baseline_ResNet50_STD.ipynb** - training, validation, and testing of "resnet50" model on original WaDaBa imagery.
+-  **baseline_ResNeXt50_STD.ipynb** - training, validation, and testing of "resnext50_32x4d" model on original WaDaBa imagery.
+-  **baseline_ResNet50_std_AUGMENTED.ipynb** - training "resnet50" model on original and masked WaDaBa imagery.
 
 
 
